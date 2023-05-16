@@ -17,7 +17,7 @@
 
      
     
-  <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<!--   <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3> -->
    
     
   <p align="center"> 
@@ -89,13 +89,13 @@ The project repository can be found in [GitHub link](https://github.com/m-sehraw
 ```
 Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
+# git clone  https://github.com/Roy1419/Rt-Weather.git
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Weather-App
+cd /home/workspace/Rt-Weather
 ```
 
 
@@ -146,13 +146,13 @@ npm run dev
 
 ## Contact
 
-If you want to contact me, you can reach me through below handles.
+<!-- If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
 [![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
 
 © 2022 Mohit Sehrawat
-
+ -->
 
 
 ## Show your support
