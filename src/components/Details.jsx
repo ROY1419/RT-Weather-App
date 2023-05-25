@@ -80,9 +80,9 @@ export const Deatils = () => {
                     {forcastData.map((e, i) => <Forcast key={i} data={e} />)}
                 </Grid>
 
-                <div className="tagLine">
+                {/* <div className="tagLine">
                     <p id="madeByMohit">Made with ❤️ by Mohit Sehrawat</p>
-                </div>
+                </div> */}
             </Box >
         </>
     );

@@ -17,7 +17,7 @@
 
      
     
-  <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+  <!-- <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3> -->
    
     
   <p align="center"> 
@@ -83,13 +83,13 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
+<!-- The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command.  -->
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/m-sehrawat/Weather-App.git
+# git clone  https://github.com/Roy1419/Rt-weather
 ```
 
 + Open terminal on your workspace with
@@ -144,7 +144,7 @@ npm run dev
 
 
 
-## Contact
+<!-- ## Contact
 
 If you want to contact me, you can reach me through below handles.
 
@@ -157,4 +157,4 @@ If you want to contact me, you can reach me through below handles.
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! -->
